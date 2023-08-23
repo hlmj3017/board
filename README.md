@@ -13,7 +13,7 @@ python manage.py <command>
 ## HTTP status code
 
 - 200 : ok
-- 301 : redirect
+- 30X : redirect
 
 - 4XX : client error
     - 401 : Unauthorized
